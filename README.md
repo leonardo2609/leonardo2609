@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Leonardo Dionizio 👋
 
-- 🌱 Cursando Ciências da Computação na Estácio de Sá - 4ª Período
+- 🌱 Cursando Ciências da Computação na Estácio de Sá - 5ª Período
 - 💬 Contante-me no e-mail: dioniziosleonardo@gmail.com
 
 <div>
