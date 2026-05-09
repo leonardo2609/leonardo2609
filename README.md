@@ -1,20 +1,46 @@
-## Olá! Eu sou o Leonardo Dionizio 👋
+# 🚀 Painel de Desenvolvimento | Leonardo
 
-- 🌱 Cursando Ciências da Computação na Estácio de Sá - 5ª Período
-- 💬 Contante-me no e-mail: dioniziosleonardo@gmail.com
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" style="border: none;">
+      <h3>📡 Status Operacional</h3>
+      <ul>
+        <li>🎓 Estudante de <b>Ciência da Computação</b></li>
+        <li>💻 Desenvolvendo sistemas de gestão e automações para o <b>varejo</b></li>
+        <li>🌌 Criador de conteúdo no <b>AstroOrbit</b> (Foguetes e Exploração Espacial)</li>
+      </ul>
+    </td>
+    <td width="50%" style="border: none;">
+      <h3>⚙️ Stack Tecnológico</h3>
+      <ul>
+        <li><b>Linguagens:</b> Python, JavaScript, TypeScript</li>
+        <li><b>Mobile & Frontend:</b> React Native, Expo, React</li>
+        <li><b>Automação:</b> n8n, Integrações de API</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<div>
-  <a href="https://github.com/leonardo2609">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo2609&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo2609&layout=compact&langs_count=16&theme=dracula"/>
+---
+
+### 📊 Métricas de Código
+
+<!-- Cartões de Estatísticas e Linguagens lado a lado -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo2609&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&line_height=28&custom_title=Estatísticas%20Gerais"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo2609&layout=compact&langs_count=6&theme=dracula&hide_border=true&custom_title=Linguagens%20em%20Órbita"/>
 </div>
 
-<div>
-  <img align="center" alt="Leo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">      
-  <img align="center" alt="Leo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-</div>
+---
 
-##
+### 📂 Projetos em Destaque
+
+<!-- Cartões de repositórios específicos (Pins) para simular um dashboard de projetos -->
+<div align="center">
+  <a href="https://github.com/leonardo2609/NOME_DO_SEU_REPOSITORIO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leonardo2609&repo=NOME_DO_SEU_REPOSITORIO_1&theme=dracula&hide_border=true&show_owner=true" />
+  </a>
+  <a href="https://github.com/leonardo2609/NOME_DO_SEU_REPOSITORIO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leonardo2609&repo=NOME_DO_SEU_REPOSITORIO_2&theme=dracula&hide_border=true&show_owner=true" />
+  </a>
+</div>
